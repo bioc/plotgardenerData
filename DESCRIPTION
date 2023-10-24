@@ -1,6 +1,6 @@
 Package: plotgardenerData
 Title: Datasets and test data files for the plotgardener package
-Version: 1.7.0
+Version: 1.8.0
 Authors@R: 
     person(given = "Nicole",
            family = "Kramer",
